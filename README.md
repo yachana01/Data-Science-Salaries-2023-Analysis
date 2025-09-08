@@ -38,7 +38,7 @@ The dataset was taken from [Kaggle – Data Science Salaries 2023](https://www.k
 
 ---
 
-# 💡 Key Insights from Data Science Salaries 2023 Dataset
+## 💡 Key Insights from Data Science Salaries 2023 Dataset
 
 ---
 
