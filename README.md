@@ -42,7 +42,7 @@ The dataset was taken from [Kaggle – Data Science Salaries 2023](https://www.k
 
 ---
 
-## ✅ 1. Salary by Job Title
+### ✅ 1. Salary by Job Title
 - The **highest paying job titles** are typically:
     - Data Science Tech Lead  
     - Cloud Data Architect 
@@ -51,34 +51,34 @@ The dataset was taken from [Kaggle – Data Science Salaries 2023](https://www.k
 
 ---
 
-## ✅ 2. Impact of Experience Level on Salary
+### ✅ 2. Impact of Experience Level on Salary
 - Salaries increase significantly with experience level. It is highest for the executive role and lowest for the entry role.
 
 ---
 
-## ✅ 3. Salary by Company Size
+### ✅ 3. Salary by Company Size
 - Medium companies (M) tend to offer **higher salaries** in this dataset.
 
 ---
 
-## ✅ 4. Salary by Employment Type
+### ✅ 4. Salary by Employment Type
 - Full-time employment offers better average salary and stability compared to freelance and contract roles. Hence it is the most common job type.
 
 ---
 
-## ✅ 5. Geographical Insights
+### ✅ 5. Geographical Insights
 - Top paying countries (Company Location) are Israel, Puerto Rico and United States in this dataset.
    
 ---
 
-## ✅ 6. Salary Trends Over Time
+### ✅ 6. Salary Trends Over Time
 - Over the years (2020 → 2023):
     - Average salaries have shown a steady increase per year.  
     - Reflects increasing demand for data science talent.
 
 ---
 
-## 🎯 Summary of Key Takeaways
+### 🎯 Summary of Key Takeaways
 - Experience level and company size are the most important factors affecting salary.
 - Israel dominates as the highest paying region for data science roles.
 - Salaries are growing steadily year over year.
